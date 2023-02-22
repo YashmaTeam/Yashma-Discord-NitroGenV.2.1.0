@@ -32,7 +32,7 @@ Chiamata "result", lì verranno inseriti in automatico tutti i nitro che trovere
 
 4. Adesso passiamo all'avviamento del programma, Dopo aver eseguito tutti questi passaggi
 
-Basterà avviare il .exe chiamato "NitroGenV.1.0.0.0.exe" ed il gioco è fatto!!
+Basterà avviare il .exe chiamato "main.exe" ed il gioco è fatto!!
 
 Buon Divertimento!!
 
